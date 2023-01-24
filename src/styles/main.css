@@ -221,7 +221,7 @@ th {
 }
 
 body {
-	background-color: #C3ACD0;
+	background-color: #1A120B;
 	font-family: Ubuntu, sans-serif;
 }
 
@@ -243,7 +243,7 @@ body {
 	position: relative;
 	padding: 20px 0;
 	width: 100%;
-	background: #fff;
+	background: #D5CEA3;
 	border-radius: 3px;
 	box-shadow: 0 0 1px rgba(0, 0, 0, .5);
 	overflow: hidden;
@@ -258,7 +258,7 @@ body {
 	width: 100%;
 	height: 130px;
 	top: 0;
-	background: #f9f9f9;
+	background: #E5E5CB;
 	border-bottom: 1px solid rgba(0, 0, 0, .15);
 	z-index: -1
 }
