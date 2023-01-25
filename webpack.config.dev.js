@@ -74,4 +74,14 @@ module.exports={
         }),
         new docenv()
     ],
+    devServer:{
+        static:{
+            directory:path.join(__dirname,'dist'),
+        },
+        watchFiles: path.join(__dirname, "./**"),
+        compress: true,
+        historyApiFallback:true,
+        port:3006,
+        open:true 
+    },
 }
